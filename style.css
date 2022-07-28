@@ -1,0 +1,13 @@
+.carousel-caption{
+    top: 30%;
+    bottom:auto;
+}
+.price{
+    color: darkblue;
+}
+.color-2{
+    color: #4a4a4a;
+  }
+.company-logo-width{
+    max-width: 110px;
+  }
