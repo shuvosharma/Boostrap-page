@@ -1,13 +1,29 @@
-.carousel-caption{
-    top: 30%;
-    bottom:auto;
+.font-400{
+  font-family: poppins, sans-serif;
+  font-weight: 400;
 }
-.price{
-    color: darkblue;
+.font-600{
+  font-family: poppins, sans-serif;
+  font-weight: 600;
+}
+.banner-blurry {
+  filter: brightness(60%)
+}
+.color-1{
+  color: #777777;
 }
 .color-2{
-    color: #4a4a4a;
-  }
+  color: #4a4a4a;
+}
+.color-3{
+  color: #F59E0B;
+}
+.color-4{
+  color: #0D6EFD;
+}
 .company-logo-width{
-    max-width: 110px;
-  }
+  max-width: 110px;
+}
+.carousel-item img{
+  height: 90vh;
+}
